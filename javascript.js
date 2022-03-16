@@ -1,6 +1,6 @@
 // var search = $('#searchPicture');
 var search = document.getElementById("searchPicture")
-var line = document.getElementsByClassName('line');
+var line = document.getElementByClassName('line');
 var inputPlace = document.getElementsByClassName("inputPlace");
 var hamburger = document.getElementById("hamburgerPic");
 var searchDiv = $("div.inputPlace")
