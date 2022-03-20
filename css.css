@@ -2,7 +2,12 @@
 ul{
     list-style: none;
 }
- 
+ .line1{
+    background: linear-gradient(90deg, #bbd547, #81b36e, #429099, #1375b8);
+    height: 8px;
+    padding: 0;
+    margin: 0;
+}
     .placeholderPic{
        
         background-color:#73d84b;
