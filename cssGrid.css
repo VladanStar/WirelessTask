@@ -33,7 +33,9 @@ Container
     padding: 0;
     padding-top: 1%;
   }
-  
+  button {
+    background-color: #75ce7a;
+  }
 
   /* --------------------------------------------------
 Grid
@@ -104,6 +106,9 @@ Grid
     padding: 0;
     padding-top: 1;
   }
+  button {
+        background-color: #73d84b;
+    }
 
   .column-row,
   .row {
